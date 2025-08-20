@@ -12,6 +12,9 @@ Hi, I’m Atanu Deb Nath 👋<br><br>🌱 Currently learning Python<br><br>🔎 
 ![](https://nirzak-streak-stats.vercel.app/?user=Atanu19Nath&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu19Nath&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📈 LeetCode Stats:
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=atanu_debnath&theme=github-dark)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Atanu19Nath&icon=0&color=0)](https://visitcount.itsvg.in)
 
