@@ -14,6 +14,8 @@ Hi, I’m Atanu Deb Nath 👋<br><br>🌱 Currently learning Python<br><br>🔎 
 
 # 📈 LeetCode Stats:
 ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=atanu_debnath&theme=github-dark)
+![LeetCode Profile](https://leetcard.jacoblin.cool/atanu_debnath?theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Atanu19Nath&icon=0&color=0)](https://visitcount.itsvg.in)
