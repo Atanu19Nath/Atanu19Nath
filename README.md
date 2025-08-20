@@ -5,16 +5,15 @@ Hi, I’m Atanu Deb Nath 👋<br><br>🌱 Currently learning Python<br><br>🔎 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atanu-deb-nath-72b870200/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atanudebnath67@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/atanu_debnath/)
 
+# 📈 LeetCode Stats:
+![LeetCode Profile](https://leetcard.jacoblin.cool/atanu_debnath?theme=dark)
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Atanu19Nath&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Atanu19Nath&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu19Nath&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 📈 LeetCode Stats:
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=atanu_debnath&theme=github-dark)
-![LeetCode Profile](https://leetcard.jacoblin.cool/atanu_debnath?theme=dark)
 
 
 ---
